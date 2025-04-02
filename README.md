@@ -1,4 +1,4 @@
-# CAR SHOP 
+# COLLEGE
 
 Implementation of a REST API with connection to a College Database (Exercise)
 
